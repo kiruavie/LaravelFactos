@@ -17,12 +17,15 @@
 
 <body>
     <h1>Premiere vue avec Laravel 11</h1>
+<<<<<<< HEAD
 
     <ul>
         <li><a href="{{ route('home') }}">Accueil</a></li>
         <li><a href="{{ route('products', 28) }}">Tous les produits</a></li>
         <li><a href="{{ route('about') }}">A propos</a></li>
     </ul>
+=======
+>>>>>>> 3920a34536051152583bcad9adcb479eb8ea96d3
 </body>
 
 </html>
