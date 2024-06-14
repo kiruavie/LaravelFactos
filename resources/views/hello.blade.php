@@ -9,7 +9,7 @@
 </head>
 
 <body style="padding:50px">
-    <h1>Hello World = {{ $user_id }}</h1>
+    <h1>Hello World = {{ $global_var }}</h1>
     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima optio et ipsum!</p>
     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima optio et ipsum!</p>
     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima optio et ipsum!</p>

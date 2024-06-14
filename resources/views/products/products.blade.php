@@ -16,6 +16,13 @@
     </ul>
     <h1>Products</h1>
 
+    <h2>ma liste de produits</h2>
+    <h1>{{ $name }}</h1>
+
+    <h1>{{ $price }}</h1>
+
+    {{ $global_var }}
+
 
     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima optio et ipsum!</p>
     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima optio et ipsum!</p>

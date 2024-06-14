@@ -9,14 +9,12 @@
 </head>
 
 <body>
-<<<<<<< HEAD
+    {{ $global_var }}
     <ul>
         <li><a href="{{ route('home') }}">Accueil</a></li>
-        <li><a href="{{ route('products', 24) }}">Tous les produits</a></li>
+        <li><a href="{{ route('products') }}">Tous les produits</a></li>
         <li><a href="{{ route('about') }}">A propos</a></li>
     </ul>
-=======
->>>>>>> 3920a34536051152583bcad9adcb479eb8ea96d3
     <h1>A propos de nous</h1>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt quas illum minus.</p>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt quas illum minus.</p>
